@@ -14,6 +14,8 @@ Excel Functions: INDEX, MATCH, IF, VLOOKUP,
 
 # 🧭 Project Navigation
 
-- 📈 [Project_Questions_&_Analysis]()
-  
-- 📁  [Dataset]()
+- 📈 [Project_Questions_&_Analysis](Assets/final_project/project_analysis.md)
+
+- 📁 [final Project](Assets/final_project/Healthcare Admissions Dataset Training.xlsx)
+- 
+- 📁  [Dataset](Assets/Dataset/Healthcare_Admissions_Dataset_1.xlsx)
