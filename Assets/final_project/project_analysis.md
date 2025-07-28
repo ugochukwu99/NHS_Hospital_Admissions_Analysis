@@ -5,7 +5,7 @@ This project presents a visual analysis of hospital admission trends within the 
 # 🎯 Purpose
 The primary goal of this project is to support healthcare professionals and decision-makers by addressing the following key questions:
 
-Dashboard Summary
+Dashboard Summary 
 
 ![](../screenshots/nhs_hospital_admin.png)
 
